@@ -36,6 +36,7 @@ const Template = async () => {
             <img src="${instagram} " />
           </a>
         </div>
+        <p>Realizado: Efrain Diaz - Edwin Quintero</p>
       </div>
     </div>
   `;
